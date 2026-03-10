@@ -82,6 +82,35 @@ The user can press the **Stop Button** to turn off the alarm.
 
 ---
 
+# 🖥️ LCD Display Screens
+
+The LCD automatically cycles between three screens:
+
+### Screen 1
+
+```
+Stay Healthy!
+Get Well Soon!
+```
+
+### Screen 2
+
+```
+Press Buttons
+for Reminder!
+```
+
+### Screen 3
+
+```
+Time HH:MM:SS
+Date DD/MM/YYYY
+```
+
+The screen changes every **2 seconds**.
+
+---
+
 # 💾 EEPROM Usage
 
 The selected reminder mode is stored in **EEPROM** so that the system remembers the setting even after power is turned off.
@@ -139,4 +168,5 @@ This project was developed for learning purposes in:
 * Arduino Programming
 * Embedded Systems
 * IoT Development
+
 
